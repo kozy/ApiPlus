@@ -1,0 +1,15 @@
+{
+    "name":"kozy/ApiPlus",
+    "description":"Make your Magento API integration easier for third parties with this module",
+    "minimum-stability":"dev",
+    "type":"magento-module",
+    "license":"MIT",
+    "homepage":"https://github.com/kozy/ApiPlus",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:kozy/ApiPlus.git"
+        }
+    ],
+    "authors":[ ]
+}
